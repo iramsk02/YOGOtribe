@@ -62,7 +62,7 @@ cd yogotribe-challenge
 ### 2. Backend Setup
 
 ```bash
-cd backend
+cd Backend
 npm install
 ```
 
@@ -79,7 +79,7 @@ npm install express
 ### 3. Frontend Setup
 
 ```bash
-cd ../frontend
+cd ../Frontend
 npm install
 ```
 
