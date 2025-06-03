@@ -88,7 +88,7 @@ npm install
 ### Backend (API Server)
 
 ```bash
-cd backend
+cd Backend
 
 # Development mode (with auto-restart)
 npm run dev
@@ -105,7 +105,7 @@ The API will be available at: `http://localhost:3000`
 ### Frontend (React App)
 
 ```bash
-cd frontend
+cd Frontend
 
 # Development mode
 npm start
