@@ -14,16 +14,18 @@ This project contains two main components:
 yogotribe-challenge/
 ├── frontend/
 │   ├── src/
-│   │   └── App.jsx
+│   │   └── components/
+│   │           └── RandomFactFetcher.jsx        
+│   ├── App.jsx 
 │   ├── package.json
 │   └── README.md
 ├── backend/
 │   ├── src/
-│   │   └── server.ts
+│   │   └── index.ts
 │   ├── dist/           (generated after build)
 │   ├── package.json
-│   ├── tsconfig.json
-│   └── nodemon.json
+│   └── tsconfig.json
+│   
 ├── README.md
 └── .gitignore
 ```
